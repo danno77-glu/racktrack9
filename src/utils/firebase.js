@@ -3,7 +3,7 @@ import { getFirestore, enableIndexedDbPersistence } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCXnMmP7_yuyKAGmcqlyyG9q9GyxswePwE",
+  apiKey: 
   projectId: "mezzanine-crm",
   appId: "1:686808061550:web:your-app-id"
 };
